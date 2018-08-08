@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Николай Ромашов](https://up.htmlacademy.ru/htmlcss/22/user/808779).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker).
 
 ---
 
